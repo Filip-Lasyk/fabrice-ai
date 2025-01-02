@@ -7,6 +7,7 @@
     "@fabrice-ai/tools": "0.5.2",
     "@langchain/community": "^0.3.17",
     "axios": "^1.7.9",
+    "create-fabrice-ai": "0.5.2",
     "dedent": "^1.5.3",
     "dotenv": "^16.4.7",
     "fabrice-ai": "0.5.2",
